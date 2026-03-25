@@ -7,13 +7,13 @@ Interactive Power BI dashboard analyzing wine quality using descriptive analytic
 ## Dashboard Preview
 
 ### Overview
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Descriptive / EDA
-![EDA](eda.png)
+![EDA](Descriptive_EDA.png)
 
 ### Predictive / Machine Learning
-![ML](ml.png)
+![ML](Predictive_ML.png)
 
 ---
 
